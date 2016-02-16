@@ -6,6 +6,7 @@ This Demo Use two layer neural network to classify various sample points on two 
 
 result：
 
+```
 iteration 0: loss 1.386415
 iteration 100: loss 1.202871
 iteration 200: loss 1.148918
@@ -127,7 +128,7 @@ iteration 11700: loss 0.528392
 iteration 11800: loss 0.521353
 iteration 11900: loss 0.524219
 training accuracy: 0.93
-
+```
 
 
  ![image](http://img.blog.csdn.net/20160216134631313)
